@@ -16,6 +16,7 @@ sort(arr.begin(),arr.end());
 
 int a=arr[0];
 
+
 vector<int> temp;
 
 for(auto it: arr)
